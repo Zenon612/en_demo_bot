@@ -6,6 +6,8 @@ token.txt
 env/
 venv/
 
+idea/
+
 english_words.db
 english_words.db-journal
 
